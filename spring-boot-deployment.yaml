@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: first-deployment
-          image: 669797980703.dkr.ecr.us-east-1.amazonaws.com/jenkins-pipeline-build-staging:v11
+          image: 669797980703.dkr.ecr.us-east-1.amazonaws.com/jenkins-pipeline-build-staging:v12
           tag:
           imagePullPolicy: Always
           ports:
